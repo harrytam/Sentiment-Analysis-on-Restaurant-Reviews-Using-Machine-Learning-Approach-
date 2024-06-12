@@ -1,1 +1,1 @@
-# INM434-Natural-Language-Processing
+# Sentiment Analysis on Restaurant Reviews: Using Machine Learning Approach 
